@@ -1,4 +1,4 @@
-% Problem 1 - Gaussian Pyramid - ntofighi21
+% Problem 1 - Gaussian Pyramid 
 % General scripts:
 clc
 clear all

@@ -1,4 +1,4 @@
-% Problem 3 - 2-D Wavelet Transform- ntofighi21
+% Problem 3 - 2-D Wavelet Transform- 
 % General scripts:
 clc
 clear all

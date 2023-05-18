@@ -1,4 +1,4 @@
-% Problem 1- Fourier Magnitude and Phase of Images - ntofighi21
+% Problem 1- Fourier Magnitude and Phase of Images
 
 % General scripts:
 clc

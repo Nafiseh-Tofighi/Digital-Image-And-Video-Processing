@@ -1,4 +1,4 @@
-% Problem 2 - Laplacian Pyramid- ntofighi21
+% Problem 2 - Laplacian Pyramid- 
 % General scripts:
 clc
 clear all
